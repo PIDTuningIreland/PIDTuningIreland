@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of our projects are available at [https://github.com/PIDTuningIreland](https://github.com/PIDTuningIreland)
 
-- 🌐 Website link https://pidtuningireland.github.io/
+- 🌐 Website link https://pidtuningireland.com/
 
-- 💹 PID Simulator https://pidtuningireland.onrender.com
+- 💹 PID Simulator https://pidtuningireland.com#sim
 
 - 💬 Ask us about **PID Tuning**
 
@@ -17,10 +17,10 @@
 
 - ⚡ Fun fact **PID stands for Proportional-Integral-Derivative**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pid-tuning-ireland-441062253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pidtuningireland" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCjwf8bJZyhVY32I2q2JZnBQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pidtuningireland" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pidtuningireland/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pidtuningireland" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@pidtuningireland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pidtuningireland" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
