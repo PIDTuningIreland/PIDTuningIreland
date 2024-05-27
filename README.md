@@ -9,7 +9,7 @@
 
 - 🌐 Website link https://pidtuningireland.com/
 
-- 💹 PID Simulator https://pidtuningireland.com#sim
+- 💹 PID Simulator https://pidtuningireland.com/#sim
 
 - 💬 Ask us about **PID Tuning**
 
