@@ -12,7 +12,7 @@
 
 ## Explore Our Tools
 - **💹 PID Simulator:** [https://pidtuningireland.com/#sim](https://pidtuningireland.com/#sim)
-- **🛠 PID Tuning Software:** [https://github.com/sponsors/PIDTuningIreland](https://github.com/sponsors/PIDTuningIreland)
+- **🛠 PID Tuner:** [https://pidtuningireland.com/#tuner](https://pidtuningireland.com/#tuner)
 
 
 
